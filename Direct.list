@@ -23,7 +23,7 @@ DOMAIN-KEYWORD,fangcloud
 DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,cjllin.eu.org
-
+DOMAIN-SUFFIX,861020.xyz
 
 
 
@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,cjllin.eu.org
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
+IP-CIDR,219.147.1.66/32,no-resolve861020.xyz861020.xyz
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
