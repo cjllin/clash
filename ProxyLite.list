@@ -46,3 +46,4 @@ DOMAIN-SUFFIX,services.googleapis.cn
 #googlecn
 IP-CIDR,183.212.25.29/32,no-resolve
 IP-CIDR,180.141.215.150/32,no-resolve
+IP-CIDR,119.119.212.204/32,no-resolve
