@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,movie-pilot.org
 #googlecn
 IP-CIDR,183.212.25.29/32,no-resolve
 IP-CIDR,180.141.215.150/32,no-resolve
