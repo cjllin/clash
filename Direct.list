@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,github.site
 DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,cjllin.eu.org
 DOMAIN-SUFFIX,861020.xyz
+IP-CIDR,66.103.218.247/32
 
 
 
