@@ -1,0 +1,10 @@
+# 内容 OpenAi Bard anthropic claude
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,skype
+#DOMAIN-KEYWORD,anthropic
+#DOMAIN-KEYWORD,Claude
+
+# 域名后缀匹配
+#DOMAIN,support.vsol-tech.com
+#DOMAIN,sp-support.vsol-tech.com
