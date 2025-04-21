@@ -2,7 +2,7 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,skype
-#DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,teams
 #DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
