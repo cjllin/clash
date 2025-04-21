@@ -20,7 +20,7 @@ DOMAIN,vs-rd.imwork.net
 DOMAIN-KEYWORD,fangcloud
 DOMAIN-SUFFIX,cjllin.eu.org
 DOMAIN-SUFFIX,861020.xyz
-IP-CIDR,66.103.218.247/32
+IP-CIDR,66.103.218.247/32,no-resolve
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-KEYWORD,iptorrents
 
@@ -28,7 +28,7 @@ DOMAIN-KEYWORD,iptorrents
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve861020.xyz861020.xyz
+IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
