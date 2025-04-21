@@ -4,11 +4,11 @@
 DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+#DOMAIN-KEYWORD,1e100
 
 # IP段匹配
-IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,103.115.43.2/32,no-resolve
+#IP-CIDR,142.171.133.131/32,no-resolve
+#IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,javdb
 #googlecn
 IP-CIDR,183.212.25.29/32,no-resolve
 IP-CIDR,180.141.215.150/32,no-resolve
