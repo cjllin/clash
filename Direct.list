@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,861020.xyz
 IP-CIDR,66.103.218.247/32,no-resolve
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-KEYWORD,iptorrents
+DOMAIN-KEYWORD,doubao
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
