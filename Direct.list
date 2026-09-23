@@ -24,7 +24,7 @@ IP-CIDR,66.103.218.247/32,no-resolve
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-KEYWORD,iptorrents
 DOMAIN-KEYWORD,doubao
-
+DOMAIN-SUFFIX,rustdesk.com
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
