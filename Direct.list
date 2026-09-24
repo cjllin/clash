@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,43.134.128.57/32,no-resolve
 
 #cjl
 DOMAIN-KEYWORD,dingtalk
