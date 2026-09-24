@@ -9,4 +9,4 @@
 DOMAIN,support.vsol-tech.com
 DOMAIN,sp-support.vsol-tech.com
 DOMAIN-KEYWORD,vsol-tech
-
+IP-CIDR,43.134.128.57/32,no-resolve
