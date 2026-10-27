@@ -1,0 +1,111 @@
+[custom]
+
+
+;规则集定义
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.list
+ruleset=🎯 全球直连,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.list,86400|no-resolve
+ruleset=🍀 VSOL,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/vsol.list
+ruleset=🌍 远程软件,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/remote.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/Direct.list
+ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.list
+ruleset=🍀 SkypeTeams,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/skype.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/ProxyLite.list
+ruleset=🤖 AI,https://raw.githubusercontent.com/cjllin/clash/refs/heads/main/AI.list
+ruleset=🤖 AI,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/epicgames.list
+ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/origin.list
+ruleset=📢 FCM,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/googlefcm.list
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google@cn.list
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam@cn.list
+ruleset=👨🏿‍💻 GitHub,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.list
+ruleset=🍀 Google,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.list
+ruleset=🍀 Google,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.list,86400|no-resolve
+ruleset=💧 Bing,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list
+ruleset=🐬 OneDrive,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.list
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft@cn.list
+ruleset=🪟 Microsoft,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.list
+ruleset=🎯 全球直连,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple@cn.list
+ruleset=🍎 Apple,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list
+ruleset=🍎 Apple,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.list,86400|no-resolve
+ruleset=📲 Telegram,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.list
+ruleset=📲 Telegram,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.list,86400|no-resolve
+ruleset=♻️ Speedtest,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/speedtest.list
+ruleset=📹 YouTube,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.list
+ruleset=🎥 Netflix,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.list
+ruleset=🎥 Netflix,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list,86400|no-resolve
+ruleset=🎵 TikTok,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.list
+ruleset=💶 Wallet,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.list
+ruleset=💶 Wallet,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/binance.list
+ruleset=💶 Wallet,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/okx.list
+ruleset=💶 Wallet,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-cryptocurrency.list
+ruleset=🎞️ 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+ruleset=🚀 节点选择,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list
+ruleset=🚀 CloudFlare,clash-domain:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list
+ruleset=🎯 全球直连,[]GEOSITE,CN
+ruleset=🚀 节点选择,[]GEOSITE,geolocation-!cn
+ruleset=🎯 全球直连,[]GEOIP,CN
+ruleset=🎯 全球直连,clash-ipcidr:https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list,86400|no-resolve
+ruleset=🚀 节点选择,[]GEOIP,US
+ruleset=🐟 漏网之鱼,[]FINAL
+
+
+
+
+;策略组定义
+custom_proxy_group=🚀 节点选择`select`[]⭐ 故障转移`[]🔯 香港自动`[]🔯 日本自动`[]🔯 东南亚自动`[]🔯 台湾自动`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🍀 VSOL`select`[]⭐ 故障转移`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🍀 SkypeTeams`select`[]DIRECT`[]⭐ 故障转移`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换
+custom_proxy_group=🌍 远程软件`select`[]DIRECT`[]⭐ 故障转移`[]🌐 印度节点`[]🔯 香港自动`[]🔯 日本自动`[]🔯 东南亚自动`[]🔯 台湾自动`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换
+custom_proxy_group=📹 YouTube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🤖 AI`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=💧 Copilot`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🐬 OneDrive`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🪟 Microsoft`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🍀 Google`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🚀 CloudFlare`select`[]🚀 节点选择`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=👨🏿‍💻 GitHub`select`[]🚀 节点选择`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🍎 Apple`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 欧洲节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换
+custom_proxy_group=♻️ Speedtest`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 欧洲节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换
+custom_proxy_group=🎵 TikTok`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 欧洲节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🎥 Netflix`select`[]🚀 节点选择`[]🎥 奈飞节点`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=💶 Wallet`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=📲 Telegram`select`[]🚀 节点选择`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=📢 FCM`select`[]🚀 节点选择`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🎮 游戏平台`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 欧洲节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`🌐 欧洲节点`🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换`[]DIRECT
+custom_proxy_group=🎞️ 国内媒体`select`[]DIRECT`[]🚀 节点选择`[]🐸 手动切换
+custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]🐸 手动切换
+custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
+custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
+;custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
+;custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]⭐ 故障转移`[]🌐 印度节点`[]🔯 香港自动`[]🔯 日本自动`[]🔯 东南亚自动`[]🔯 台湾自动`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 东南亚节点`[]🇺🇲 北美节点`[]🌐 欧洲节点`[]🌐 南美节点`[]🌐 台湾节点`[]🌐 其他地区`[]🐸 手动切换
+custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
+custom_proxy_group=🐸 手动切换`select`.*
+custom_proxy_group=🇭🇰 香港节点`select`(?=.*(香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(深港|US|家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
+custom_proxy_group=🇯🇵 日本节点`select`(?=.*(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Tokyo|Japan))^((?!(家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
+custom_proxy_group=🇸🇬 东南亚节点`select`(?=.*(马来西亚|菲律宾|新加坡|坡|狮城|SG|Singapore))^((?!(家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
+custom_proxy_group=🇺🇲 北美节点`select`(加拿大|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|Los|US|United States)
+custom_proxy_group=🌐 印度节点`url-test`(?=.*(印度))`https://cp.cloudflare.com/generate_204`320,,50
+custom_proxy_group=🌐 台湾节点`select`(?=.*(台湾|Taiwan|TW))
+custom_proxy_group=🌐 南美节点`select`(?=.*(阿根廷|澳大利亚))
+custom_proxy_group=🌐 欧洲节点`select`(?=.*(法国|德国|英国|意大利|土耳其|俄罗斯|Russia|爱尔兰))
+custom_proxy_group=🌐 其他地区`select`(^(?!.*(阿根廷|澳大利亚|法国|德国|英国|意大利|土耳其|俄罗斯|Russia|爱尔兰|美国|台湾|TW|Taiwan|香港|HK|Hong Kong|🇭🇰|HongKong|印度|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan|Tokyo|新加坡|坡|狮城|SG|Singapore|加拿大|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|Los|US|United States)).*)
+custom_proxy_group=⭐ 故障转移`fallback`[]🔯 香港自动`[]🔯 日本自动`[]🔯 东南亚自动`[]🔯 台湾自动`https://www.gstatic.com/generate_204`600,,50
+custom_proxy_group=🔯 香港自动`url-test`(?=.*(香港|HK|HONGKONG))^((?!(家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`https://cp.cloudflare.com/generate_204`300,,50
+custom_proxy_group=🔯 日本自动`url-test`(?=.*(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan|Tokyo))^((?!(深港|家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`https://cp.cloudflare.com/generate_204`320,,50
+custom_proxy_group=🔯 东南亚自动`url-test`(?=.*(马来西亚|菲律宾|新加坡|坡|狮城|SG|Singapore))^((?!(家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`https://cp.cloudflare.com/generate_204`360,,50
+custom_proxy_group=🔯 台湾自动`url-test`(?=.*(台湾|Taiwan|TW))^((?!(家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$`https://cp.cloudflare.com/generate_204`380,,50
+
+
+
+enable_rule_generator=true
+overwrite_original_rules=true
+update_ruleset_on_request=ture
