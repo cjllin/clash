@@ -34,6 +34,10 @@ payload:
   - IP-CIDR,114.114.115.115/32,no-resolve
   - IP-CIDR,202.96.128.86/32,no-resolve
   - IP-CIDR,202.96.134.33/32,no-resolve
+  - IP-CIDR,211.136.192.6/32,no-resolve
+  - IP-CIDR,120.196.165.24/32,no-resolve
+  - IP-CIDR,202.96.134.133/32,no-resolve
+  - IP-CIDR,202.96.128.166/32,no-resolve
   # 360
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,360kuai.com
