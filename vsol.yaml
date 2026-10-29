@@ -7,5 +7,7 @@ payload:
   # 域名后缀匹配
   - DOMAIN,support.vsol-tech.com
   - DOMAIN,sp-support.vsol-tech.com
-  - DOMAIN-KEYWORD,vsol-tech
+  - DOMAIN,ince.vsol-tech.com
+  - DOMAIN,vince-sa.vsol-tech.com
+  - DOMAIN,vince-eu.vsol-tech.com
   - IP-CIDR,43.134.128.57/32,no-resolve
