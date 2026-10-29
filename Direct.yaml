@@ -21,6 +21,7 @@ payload:
   - DOMAIN-KEYWORD,iptorrents
   - DOMAIN-KEYWORD,doubao
   - DOMAIN-SUFFIX,rustdesk.com
+  - DOMAIN-SUFFIX,i-ince-license.vsol-tech.com
   # 国内DNS
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,doh.pub
